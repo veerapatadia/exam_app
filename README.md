@@ -1,4 +1,4 @@
-![Screenshot_20240401_144103](https://github.com/veerapatadia/exam_app/assets/150000048/3a2ecba6-2297-4cdb-9402-9f5cd75a152e)![Screenshot_20240401_143141](https://github.com/veerapatadia/exam_app/assets/150000048/a5175647-32d8-465d-a972-cd03883f0843)# ShopEase
+# ShopEase
 
 ## Project Description:
 
